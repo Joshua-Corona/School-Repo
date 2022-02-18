@@ -1,0 +1,10 @@
+Lab 2:
+I guess I am supposed to use these handy in-browser files as the spaces to type my Lab reflection.
+
+During the TryHackMe lab, we went through the basics on how to use THM answers, and once I figured out how to mark the first box as "Complete", 
+it dove right into the Open Systems Interconnection Model. I like how each section provided another layer of information that you could read in real-time, 
+and so there was a few helpful charts for the OSI model in the first few parts there. 
+
+After a while, a lot of the answers became more application based than just reading and answering. One thing I liked is that this then made us run the whois, 
+tracert, and ping strings in our terminals and then get information about the specific webpages and networks from that route. Overall, the lab did not take 
+me too long, and it took me longer to figure out what to do here. A lot of the imagery was also very helpful so I could figure out what was going on. 
