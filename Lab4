@@ -1,0 +1,9 @@
+Lab 4: DNS in Detail
+
+During the TryHackMe lab, we went through readings on what DNS was, and an informative video on the topic. Going though the history of how the
+Top Level Domains were structured was also helpful, as I had known roughly about the .com/.gov/.edu/.org domains, but not the Country Code Top Level
+Domain ones. I actually did take the time to look at the list of over 2000 TLD and had a look at those to get an idea of how broad they could be, and I
+was surprised to see Allstate had their very own.
+
+The final portion of the lab was a little confusing, it didn't actually want me to type in "shop.website.thm", but just "shop". Once I figured that out,
+the process became easier.
