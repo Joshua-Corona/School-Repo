@@ -40,9 +40,14 @@ Forensics - Lookey Here:
 flag, which there was.
 
 Cryptography - Morse-Code:
-  I tried listening to it twice and managed to get about half the message out, but once I started hearing 5 long tones (0) I got 
+  We were given a wav file.
+I tried listening to it twice and managed to get about half the message out, but once I started hearing 5 long tones (0) I got 
 very confused since I didn't know numbers were an option. I used FL Studio to look at the waveform and translated it.
 
 Cryptography - Mr-Worldwide:
-  At first, I thought these could be plugged into desmos, but with all the decimals I found out "Worldwide" refers to Latitude and Longitude.
+  This challenge gave me a series of coordinates:
+picoCTF{(35.028309, 135.753082)(46.469391, 30.740883)(39.758949, -84.191605)(41.015137, 28.979530)(24.466667, 54.366669)
+(3.140853, 101.693207)_(9.005401, 38.763611)(-3.989038, -79.203560)(52.377956, 4.897070)(41.085651, -73.858467)(57.790001, -152.407227)
+(31.205753, 29.924526)}
+At first, I thought these could be plugged into desmos, but with all the decimals I found out "Worldwide" refers to Latitude and Longitude.
 The locations they wanted required me to zoom out to the nearest closest large title, and often times I had to adjust.
