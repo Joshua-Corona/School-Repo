@@ -1,0 +1,48 @@
+Pro Dev Final:
+
+General Skills - Obedient Cat: 
+  This task was simple, as a file with no extension was downloaded called "flag". Opening it in a text editor revealed 
+the answer.
+
+Cryptology - Mod 26: 
+  This task wanted me to use an online decoder for Rot13 to put in the correct key.
+
+General Skills - Python Wrangling
+  This was the hardest by far. My Macbook does not like anything programming related, declaring it all to be malware. In 
+order to get my Computer Science Degree, I had to turn off every security measure and firewall, then install 10+ 
+supportive programs and another VSC extensions to keep my IDE afloat at all times. That hardly worked for C++, so 
+for python I tried Repl.it. Nothing. I found there was an on-site terminal. Tried that, got an error. Tried my IDE again, 
+installed 40 things trying to read it. Nada. Tried to brute force hash the code. Finally, I managed to figure it out 
+in the online IDE on PicoCTF. That was very inconvinent and I spent more than a half hour on it.
+
+Forensics - Information:
+  This one was odd too. After looking for something that wasn't Linux or Windows only, I tried using a stereogram on the Cat.png. 
+Also converted it to a .txt file and found a tag near the top. Converted it from base 64 and made sure it was in the right format 
+and it worked.
+
+Web Exploitation - Get ahead:
+  The spelling was odd in the title, and I knew based on the category that I should be looking in the inspect element. I saw 
+  that there was "Get" and "Post", and then I realized that I'd have to somehow try using the a"HEAD" in the title to try and
+force a Head method. After looking into a command that could prompt information from a URL, I found a curl command, and then after
+doing curl --help in my terminal, found curl -I. Fumbling with the command a dozen times, I managed to get a message saying "COULD 
+NOT RESOLVE HOST HEAD", which made me think I was wrong, until I saw the flag in picoCTF format pop up.
+
+Forensics - Enhance!:
+  I have no clue if I did it right, but I changed the .svg file to a .txt, and noticed that all of the tspan tags at the bottom
+have a character surrounded by a space. I took them all and made the full flag.
+
+Web Exploitation - Inspect HTML:
+  This one about told me what me to do, and in the history lesson, gave me a hint it had to do with the head tag. I inpected element
+and found the flag.
+
+Forensics - Lookey Here:
+  I saw this one had a txt file of Ayn Rand's Anthem, and I thought that was neat. I opened it as a .txt and used ctrl-F to find a 
+flag, which there was.
+
+Cryptography - Morse-Code:
+  I tried listening to it twice and managed to get about half the message out, but once I started hearing 5 long tones (0) I got 
+very confused since I didn't know numbers were an option. I used FL Studio to look at the waveform and translated it.
+
+Cryptography - Mr-Worldwide:
+  At first, I thought these could be plugged into desmos, but with all the decimals I found out "Worldwide" refers to Latitude and Longitude.
+The locations they wanted required me to zoom out to the nearest closest large title, and often times I had to adjust.
