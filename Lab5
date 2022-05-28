@@ -1,1 +1,11 @@
-yes
+Lab 5: Active Reconnaissance
+
+During this lab, I was promped to learn about the traceroute, telnet, and nc commands, as well as some of their pros and flaws.
+It also went through the browser, and information that you can learn about a network from the commands above, and through the Internet DevTools.
+Throughout the lab, we were asked to find out information of websites and ports using said commands, and this was one of the labs where the hands
+on portion got to be a little confusing. There were points where I would try a command, and not understand that it needed me to fill in my own information
+(or in one case, follow the example to a T), and so there were commands that though I used right as far as syntax, it wasn't obtaining the right
+information. 
+
+One thing that I did like about the lab is their coverage on what Active Reconnaissance is, and why like real life investigating, you can't just 
+begin invading all kinds of servers to try to prevent attacks, and there is a lot of delicate paperwork and clearances needed to do the job.
